@@ -1,13 +1,22 @@
-# Learn Redux
+# Reduxstagram
 
-A simple React + Redux implementation. This will be turned into a free video series once the app is totally fleshed out.
+Instagram clone using React + Redux implementation.
 
-## Running
+## Screenshot
+![Reduxstagram](/images/reduxstagram.png)
+Screenshot coming soon
 
-First `npm install` to grab all the necessary dependencies. 
+## Installation
 
-Then run `npm start` and open <localhost:7770> in your browser.
+```
+git clone https://github.com/mkhira2/reduxstagram.git
+cd reduxstagram
+npm install
+npm start
 
-## Production Build
+open localhost:7770 in the browser
+```
 
-Run `npm build` to create a distro folder and a bundle.js file.
+## License
+
+This project is licensed under the MIT License.
