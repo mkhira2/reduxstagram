@@ -4,7 +4,6 @@ Instagram clone using React + Redux implementation.
 
 ## Screenshot
 ![Reduxstagram](/images/reduxstagram.png)
-Screenshot coming soon
 
 ## Installation
 
